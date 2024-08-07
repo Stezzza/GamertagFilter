@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luca\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\Assessment - Introduction to Programming\\Gamertag Project and Source Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97776BB5-4F3B-4E60-B863-77D11F152B36}|ICTPRG302 Intro to Programming\\ICTPRG302 Intro to Programming.csproj|C:\\Users\\Luca\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\Assessment - Introduction to Programming\\Gamertag Project and Source Code\\ictprg302 intro to programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97776BB5-4F3B-4E60-B863-77D11F152B36}|ICTPRG302 Intro to Programming\\ICTPRG302 Intro to Programming.csproj|solutionrelative:ictprg302 intro to programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97776BB5-4F3B-4E60-B863-77D11F152B36}|ICTPRG302 Intro to Programming\\ICTPRG302 Intro to Programming.csproj|c:\\users\\luca\\onedrive - the academy of interactive entertainment ltd\\desktop\\assessment - introduction to programming\\gamertag project and source code\\ictprg302 intro to programming\\gamertags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97776BB5-4F3B-4E60-B863-77D11F152B36}|ICTPRG302 Intro to Programming\\ICTPRG302 Intro to Programming.csproj|solutionrelative:ictprg302 intro to programming\\gamertags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gamertags.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\Assessment - Introduction to Programming\\Gamertag Project and Source Code\\ICTPRG302 Intro to Programming\\Gamertags.cs",
+              "RelativeDocumentMoniker": "ICTPRG302 Intro to Programming\\Gamertags.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\Assessment - Introduction to Programming\\Gamertag Project and Source Code\\ICTPRG302 Intro to Programming\\Gamertags.cs",
+              "RelativeToolTip": "ICTPRG302 Intro to Programming\\Gamertags.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwGkAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:07:48.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luca\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\Assessment - Introduction to Programming\\Gamertag Project and Source Code\\ICTPRG302 Intro to Programming\\Program.cs",
+              "RelativeDocumentMoniker": "ICTPRG302 Intro to Programming\\Program.cs",
+              "ToolTip": "C:\\Users\\Luca\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\Assessment - Introduction to Programming\\Gamertag Project and Source Code\\ICTPRG302 Intro to Programming\\Program.cs",
+              "RelativeToolTip": "ICTPRG302 Intro to Programming\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:07:49.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
